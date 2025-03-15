@@ -7,7 +7,7 @@ int main() {
 
     int soma = a + b + c; 
 
-    printf("%d taí tua soma abestada\n", soma);
+    printf("%d\n", soma);
 
     return 0;
 }
